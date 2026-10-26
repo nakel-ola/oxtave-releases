@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "notes": "See the assets to download this version.",
+  "pub_date": "2026-10-26T15:36:16Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW94RTlhblA5WGl6ZUZpRFMxVHZKWDlNRXpZczRBRlR2Z3JRMlZkR242UmZHZXZLb2xJRzBlNG83WTR1VXBpMm03ZTUxMnh3c3lFNk85b01WOE50bXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI3NTQyCWZpbGU6T3h0YXZlIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wClZaV3ZpcXAwbFVhRHQyOTY2MWl4dCs2Slhra0FYUFU5L0YyQkhmTnN4QlphV0tkOVo1WitIREhJaWZVTHNwbGlXczdIUjBBZlF5WHNwR0Y2ZTNPOEFBPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.0/Oxtave.Console_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW94RTlhblA5WGl6ZUZpRFMxVHZKWDlNRXpZczRBRlR2Z3JRMlZkR242UmZHZXZLb2xJRzBlNG83WTR1VXBpMm03ZTUxMnh3c3lFNk85b01WOE50bXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI3NTQyCWZpbGU6T3h0YXZlIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wClZaV3ZpcXAwbFVhRHQyOTY2MWl4dCs2Slhra0FYUFU5L0YyQkhmTnN4QlphV0tkOVo1WitIREhJaWZVTHNwbGlXczdIUjBBZlF5WHNwR0Y2ZTNPOEFBPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.0/Oxtave.Console_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWdMaDNWNURMOGVycjM1bkpYbE5oeGxTT1hBcUFWSUdCRTZIUVV6S1ZvTHZCMzlCTmdCYkVNNzJCNE5LVDRwRFJsc1NQb05oc29ycXBkWE92UU1ST0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI3NjU4CWZpbGU6T3h0YXZlIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCmN3WHJmbkRzWHN3QTZkdEkvci81NURvd1orQWJPN1l3RDNKeko5STBKRVczNHkwV1Q0UVd6WjNDcHJBNWhwbC9QODRpbjRYd1RGWEQ4VlMwck1KakFBPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.0/Oxtave.Console_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWdMaDNWNURMOGVycjM1bkpYbE5oeGxTT1hBcUFWSUdCRTZIUVV6S1ZvTHZCMzlCTmdCYkVNNzJCNE5LVDRwRFJsc1NQb05oc29ycXBkWE92UU1ST0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI3NjU4CWZpbGU6T3h0YXZlIENvbnNvbGUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCmN3WHJmbkRzWHN3QTZkdEkvci81NURvd1orQWJPN1l3RDNKeko5STBKRVczNHkwV1Q0UVd6WjNDcHJBNWhwbC9QODRpbjRYd1RGWEQ4VlMwck1KakFBPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.0/Oxtave.Console_x64.app.tar.gz"
+    },
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWdkTHEyK3c5Ky9ycXN2b0JBU21sWHVMRTU3ZXRMeXFNS1lYNmVBVy9DK2kwbEtkUnQ5SklYVmxGT2xXYjl1c0JLc1QwdG1QbzYyTitTaFFIYStaTmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI4NzY0CWZpbGU6T3h0YXZlIENvbnNvbGVfMC4xLjBfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKN0k0Qk9oWGtWZXFUd29xeDRpKzJPcElHa3VXL0ttN0RROFRZazVaZ0x5SE5KRkNvcTc3Q0wzdEtDSS9XOXBuV3lHcW5oeWR1TVRHT1BOdFJMb2tMREE9PQo=",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.0/Oxtave.Console_0.1.0_arm64-setup.exe"
+    },
+    "windows-aarch64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWdkTHEyK3c5Ky9ycXN2b0JBU21sWHVMRTU3ZXRMeXFNS1lYNmVBVy9DK2kwbEtkUnQ5SklYVmxGT2xXYjl1c0JLc1QwdG1QbzYyTitTaFFIYStaTmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI4NzY0CWZpbGU6T3h0YXZlIENvbnNvbGVfMC4xLjBfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKN0k0Qk9oWGtWZXFUd29xeDRpKzJPcElHa3VXL0ttN0RROFRZazVaZ0x5SE5KRkNvcTc3Q0wzdEtDSS9XOXBuV3lHcW5oeWR1TVRHT1BOdFJMb2tMREE9PQo=",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.0/Oxtave.Console_0.1.0_arm64-setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW92RGQ4d2hFQUdOclhzZDJIRVZWek1uM2dlajlMb2tBOWdnRk5rUmROUlhaZlVTQWZlaW42MksrT0gxMkpYNGFaYjFibmd1YlBraWxsWXdKbE1sS1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI4OTMyCWZpbGU6T3h0YXZlIENvbnNvbGVfMC4xLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4wCjZ5NjB5a09iVEEvcWRUeXlKMTRwQlB3cEg2MmNCVGxydkFuL0dYQXBUd3lpaExRLytUUm5BQ3pLZlZiV1I3cFUxNmpsOHVZWXJMR01NRjUxL0hmS0JnPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.0/Oxtave.Console_0.1.0_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW92RGQ4d2hFQUdOclhzZDJIRVZWek1uM2dlajlMb2tBOWdnRk5rUmROUlhaZlVTQWZlaW42MksrT0gxMkpYNGFaYjFibmd1YlBraWxsWXdKbE1sS1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI4OTMyCWZpbGU6T3h0YXZlIENvbnNvbGVfMC4xLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4wCjZ5NjB5a09iVEEvcWRUeXlKMTRwQlB3cEg2MmNCVGxydkFuL0dYQXBUd3lpaExRLytUUm5BQ3pLZlZiV1I3cFUxNmpsOHVZWXJMR01NRjUxL0hmS0JnPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.0/Oxtave.Console_0.1.0_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXNxdmxUZnNBRGJwWHNQY1Vxa05rNUN5MlZOUUlhVGdNYm9ialpqRGVBOVVTYzdCNXIrc1JObFZ2TnhQNlFpS2V3dFZmM0VwODcrMWN1eFZkRHN0WVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDI4OTMyCWZpbGU6T3h0YXZlIENvbnNvbGVfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wClZJT29GQVFOWlRWYUZjeHROVUxjelA0dTI5eDdyTnZBbHhqeUw3OHdQV01RblV5YjZ2b24wZG5EaTRsUy8zVEFDTFUvZFBqYnhidVQ3dDVlVEM1Z0FBPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/console-v0.1.0/Oxtave.Console_0.1.0_x64-setup.exe"
+    }
+  }
+}
