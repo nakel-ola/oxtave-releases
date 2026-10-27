@@ -1,59 +1,43 @@
 {
-  "version": "0.1.0",
-  "notes": "",
-  "pub_date": "2026-10-24T18:45:00.608Z",
+  "version": "0.1.1",
+  "notes": "See the assets to download this version.",
+  "pub_date": "2026-10-26T21:05:11Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWhvS3lxYS9qWHhHaTRhaEtvdXNicmprZDZOMDNXWGlUZllFdUlRMmFzcUhzd08vbDdQbHlRTXk0UDNwdlpKdkhTTEl2dCtHT3RtTzR6QWVPZldlMVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY2MjUxCWZpbGU6T3h0YXZlIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCnZHbVhwU0ROVTVZNmxzRDFSL0RmbnhHWVNrRVk1NG1HamNuQ0FDeG5BRVgybDkwYWYxRXgwTnpubGppdm9RNGIvZHJBS2I3R2lUVll4cjU5Slhqc0FBPT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWs5cFMvenA0UmVBbDIwUEQzK0JacFJ5dlp3aHFZZ2NxWGgwY25SaHZaYnZ4d3RtZkxRVGhjSk91UkJZRDV1RzFqbDUyenJtQzY0MzRUcnI1Q1d1UFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ0NTA2CWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCkdvbGxwUk1oRlkvaXFzRXZVYXJsOXY1dUEzUjhvZ0EwSUZOdEtjeUVGc3dEeXdNMlo4N1IvcW9RY2plWWhLRjFBdG9mWlpZRVBmZXd4eVR5VEs2NkNBPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.1/Velton.Live_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWhvS3lxYS9qWHhHaTRhaEtvdXNicmprZDZOMDNXWGlUZllFdUlRMmFzcUhzd08vbDdQbHlRTXk0UDNwdlpKdkhTTEl2dCtHT3RtTzR6QWVPZldlMVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY2MjUxCWZpbGU6T3h0YXZlIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCnZHbVhwU0ROVTVZNmxzRDFSL0RmbnhHWVNrRVk1NG1HamNuQ0FDeG5BRVgybDkwYWYxRXgwTnpubGppdm9RNGIvZHJBS2I3R2lUVll4cjU5Slhqc0FBPT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWs5cFMvenA0UmVBbDIwUEQzK0JacFJ5dlp3aHFZZ2NxWGgwY25SaHZaYnZ4d3RtZkxRVGhjSk91UkJZRDV1RzFqbDUyenJtQzY0MzRUcnI1Q1d1UFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ0NTA2CWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCkdvbGxwUk1oRlkvaXFzRXZVYXJsOXY1dUEzUjhvZ0EwSUZOdEtjeUVGc3dEeXdNMlo4N1IvcW9RY2plWWhLRjFBdG9mWlpZRVBmZXd4eVR5VEs2NkNBPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.1/Velton.Live_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW1UanZ5YTdTMllESjZPcGt0aXB4WEpDeU0rRVNOTGM0dDRGdjZBeE1QTlcxditxRHhjSXp0c3dVMXVwRGZ4Y25YdVBITEk2VDhvRlhKN2ZsdjUyaWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY2NTk3CWZpbGU6T3h0YXZlIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCllYQTZIVWMza3h1ZUZMa3VGOUxwaGVyQitIbmhtWkFIdU4yaWp3UlFxbmFIU1A3RTNsakNKeXE1KzN0K0Jham50SURvelN2YmhYazFvS3hYWmdyQkR3PT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXBscm9zam1vazFCa3d3cFRVUGJ2RVRjTkRxdU5obnZsV3QreVAwY2pLQldKa1JLRkZaSUJFbGVQYUNNeUVLbzhMNGFxT0Jxd2dLbkdMMmovRkZVc0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ1MTc5CWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCmlwNlJYUWpkQ2xSWm00eFdpY0RVUXlaWTgzK0xFb2tiU1pkOGNCNXhhOE9pTkpPQzVhM2xuMUJuQUNQeTR6UXE1YzRHUGdMcDcxVDNBZC9qN1BOdENnPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.1/Velton.Live_x64.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW1UanZ5YTdTMllESjZPcGt0aXB4WEpDeU0rRVNOTGM0dDRGdjZBeE1QTlcxditxRHhjSXp0c3dVMXVwRGZ4Y25YdVBITEk2VDhvRlhKN2ZsdjUyaWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY2NTk3CWZpbGU6T3h0YXZlIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCllYQTZIVWMza3h1ZUZMa3VGOUxwaGVyQitIbmhtWkFIdU4yaWp3UlFxbmFIU1A3RTNsakNKeXE1KzN0K0Jham50SURvelN2YmhYazFvS3hYWmdyQkR3PT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_x64.app.tar.gz"
-    },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWsrYjJ0SFZWUW9MT3ZDamFEY3FWUDRBVENtNWxrWXdvQWcvTWhjTGJkb3hMdzFOSGczSG8ycEtXMzRQVlgrY0VadE1LTk1ETDdxTDdUWUVXSHozM2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY2NjQzCWZpbGU6T3h0YXZlIExpdmVfMC4xLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMApvbnlmRlFXWUJ0NHVGd09EazF1RVRieDlmSE1wbmZDWkxlbkExaW5aak5YNmpGMWN5ekNLMFlnelpLWUdwblZ3NkpYbWt5SnVJOFg5aGFMZ2dmSVZEUT09Cg==",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_0.1.0_amd64.AppImage"
-    },
-    "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWsrYjJ0SFZWUW9MT3ZDamFEY3FWUDRBVENtNWxrWXdvQWcvTWhjTGJkb3hMdzFOSGczSG8ycEtXMzRQVlgrY0VadE1LTk1ETDdxTDdUWUVXSHozM2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY2NjQzCWZpbGU6T3h0YXZlIExpdmVfMC4xLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMApvbnlmRlFXWUJ0NHVGd09EazF1RVRieDlmSE1wbmZDWkxlbkExaW5aak5YNmpGMWN5ekNLMFlnelpLWUdwblZ3NkpYbWt5SnVJOFg5aGFMZ2dmSVZEUT09Cg==",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_0.1.0_amd64.AppImage"
-    },
-    "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW1HaUZmcjFnZi85TVk0ODBLMjV6UzFUb2NWOHNGcnllSWxVTXFWRWtSekZLOHhmbXB3dnlvemMxSXJyQ1YwTVlPU2M0bWdnUE1NMXBVZ0s0Y0RnT3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY2NjQzCWZpbGU6T3h0YXZlIExpdmVfMC4xLjBfYW1kNjQuZGViCXZlcnNpb246MC4xLjAKOGgyMG9jLzNWQ1JtVzh3NGgxcTRsWmxBaWswWWFyZUhtSXFRQTlNbW1FUnZlbFAxSndaYnVIU1ZSVzZUa2hYRCtUSDhIVHBVK1k1TWhneWRQcEdUQ0E9PQo=",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_0.1.0_amd64.deb"
-    },
-    "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWhZNmtueVdPemp0SEhzUjg1RHV0dVkwN3lTbFBqQ25abGdPN1BsZFJSQThnNk0yMTdSaHhJYkE1TGQ3akRUbWFUQ3p2d1I4d3JvN2FYa1hGd25qWlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY2NjQzCWZpbGU6T3h0YXZlIExpdmUtMC4xLjAtMS54ODZfNjQucnBtCXZlcnNpb246MC4xLjAKb1F6RTZqSFBVWTJwNThPUUt4ZktLUjI3NDh2QWZMaGdIZnBjTlVGeDUvM2ZTekNiLzNJU2x6SUdzNkxkOUhmWCttQVRSRTdpb0svTWk4cEh4Z2JuQnc9PQo=",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live-0.1.0-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXBscm9zam1vazFCa3d3cFRVUGJ2RVRjTkRxdU5obnZsV3QreVAwY2pLQldKa1JLRkZaSUJFbGVQYUNNeUVLbzhMNGFxT0Jxd2dLbkdMMmovRkZVc0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ1MTc5CWZpbGU6VmVsdG9uIExpdmUuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xCmlwNlJYUWpkQ2xSWm00eFdpY0RVUXlaWTgzK0xFb2tiU1pkOGNCNXhhOE9pTkpPQzVhM2xuMUJuQUNQeTR6UXE1YzRHUGdMcDcxVDNBZC9qN1BOdENnPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.1/Velton.Live_x64.app.tar.gz"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXJSQTdZMG9iSEw2U0VQb1N6bHUraHd1eXpwanhjaFRndjRHdGJ1eXRpckc1b3doQm1FWnpOYWMzSjdOWC9WMG5UVlZHK2hRa3FwWGM2TEhyTUMwVXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY3MjQ5CWZpbGU6T3h0YXZlIExpdmVfMC4xLjBfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKV0pqMEFpVy8vcUZLOFpmUllmRzhFSDkzcGtjQmhNV1lxVE94S3VjU3RtcjNBM0xmQ0ZvaHROM3NJY0lzRW9OQU91THV5akEzT0hKUFpCOTlWTkt1Q0E9PQo=",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_0.1.0_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXB3anErbUJuV0x1VnR4VHp1QnZwaDY2RGN1eGRpSlB6bjNDZmVMV0g0b1NpZGtqRk5jcW9JWkNDYlpXUi80eGdWL1E0WW9hajVudjZ5T05rWGt6UEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ1NDk1CWZpbGU6VmVsdG9uIExpdmVfMC4xLjFfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKdjBVL3NUZitTWlhHYkZzQmVCOEZEUEcxZ0hUZGtCMjg4OTdTa2ljSitXQXR5R2JuamJ0ZmtlazBVTmNzeWJjQWxwV2hIU044VEhuQmxieks5WGw5RFE9PQo=",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.1/Velton.Live_0.1.1_arm64-setup.exe"
     },
     "windows-aarch64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXJSQTdZMG9iSEw2U0VQb1N6bHUraHd1eXpwanhjaFRndjRHdGJ1eXRpckc1b3doQm1FWnpOYWMzSjdOWC9WMG5UVlZHK2hRa3FwWGM2TEhyTUMwVXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY3MjQ5CWZpbGU6T3h0YXZlIExpdmVfMC4xLjBfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAKV0pqMEFpVy8vcUZLOFpmUllmRzhFSDkzcGtjQmhNV1lxVE94S3VjU3RtcjNBM0xmQ0ZvaHROM3NJY0lzRW9OQU91THV5akEzT0hKUFpCOTlWTkt1Q0E9PQo=",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_0.1.0_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXB3anErbUJuV0x1VnR4VHp1QnZwaDY2RGN1eGRpSlB6bjNDZmVMV0g0b1NpZGtqRk5jcW9JWkNDYlpXUi80eGdWL1E0WW9hajVudjZ5T05rWGt6UEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ1NDk1CWZpbGU6VmVsdG9uIExpdmVfMC4xLjFfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjEKdjBVL3NUZitTWlhHYkZzQmVCOEZEUEcxZ0hUZGtCMjg4OTdTa2ljSitXQXR5R2JuamJ0ZmtlazBVTmNzeWJjQWxwV2hIU044VEhuQmxieks5WGw5RFE9PQo=",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.1/Velton.Live_0.1.1_arm64-setup.exe"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXRvWnlRN095Z2ZoTVRXYUw5OVg4czRqOTJ6NDJydkllUzcwT3RCbnVrK2pPVnhBZExKVkFKTkxNM21rYzBqUDh6VEZ0M0NLbVVyNlpvZmtBS3ZRUkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY3NDk1CWZpbGU6T3h0YXZlIExpdmVfMC4xLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4wCkoxTXVGTzZPbFAydjJGbElCM3BmZHZrVDBPTDhMVVZJYlY5bG9BVExrTUhzdEExdjFmS2JaR21Sc08reUszN2tQdkl4eDZ1eTY0Y21Pc295d2kzTkRBPT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXF5aitJa0RRTVN0SW43UWpzeU0xZkRSMUZOc0J6WGliVjFuODJWMDByTnVMNUlONjJKTGZ4MVJiTW5tMjd5KzN6a3JyWmhUZ2dCRTQyczhVcktzaHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ3NDg2CWZpbGU6VmVsdG9uIExpdmVfMC4xLjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4xCjdocUZUaHBSdFhKbDlmQ3VFZ2w1K0hoeEFOVWNCdG1Bb0VMRWovUTZ0MjF0NThPd1ZOOUsxNHRSenh2cmc5UktrUkc2UmFMQlhpVHBiVVRIa0tjUUN3PT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.1/Velton.Live_0.1.1_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXRvWnlRN095Z2ZoTVRXYUw5OVg4czRqOTJ6NDJydkllUzcwT3RCbnVrK2pPVnhBZExKVkFKTkxNM21rYzBqUDh6VEZ0M0NLbVVyNlpvZmtBS3ZRUkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY3NDk1CWZpbGU6T3h0YXZlIExpdmVfMC4xLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4wCkoxTXVGTzZPbFAydjJGbElCM3BmZHZrVDBPTDhMVVZJYlY5bG9BVExrTUhzdEExdjFmS2JaR21Sc08reUszN2tQdkl4eDZ1eTY0Y21Pc295d2kzTkRBPT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VXF5aitJa0RRTVN0SW43UWpzeU0xZkRSMUZOc0J6WGliVjFuODJWMDByTnVMNUlONjJKTGZ4MVJiTW5tMjd5KzN6a3JyWmhUZ2dCRTQyczhVcktzaHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ3NDg2CWZpbGU6VmVsdG9uIExpdmVfMC4xLjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4xCjdocUZUaHBSdFhKbDlmQ3VFZ2w1K0hoeEFOVWNCdG1Bb0VMRWovUTZ0MjF0NThPd1ZOOUsxNHRSenh2cmc5UktrUkc2UmFMQlhpVHBiVVRIa0tjUUN3PT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.1/Velton.Live_0.1.1_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VW1CclRxa0ExUzV1Z00vTFpZZktReUcxRERVdWE1bFNFejZidWVwQUNSV3BGQzE3YVRmNm0yTlVIVjBYWDI0UXBMdmZ1KzVqWXoxVll6cUdsU0ZibmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY3NDk1CWZpbGU6T3h0YXZlIExpdmVfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCmlxa2tCandaU2E4SUZuLzRlWXlSMmlJWFc0L2xoN2Y5VlhLak9iU3V0S1hIZ0pyRWRmYm5ZVC8wa09KR09TMjNhUkZjUXdIMUxBMnh6QmJPZXJCekNRPT0K",
-      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.0/Oxtave.Live_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYUx0OEJMQTI5VWlCTE5RSzdZTTc3OHNIamdhRG5qdC80NVEzcXVubks3TW9mMmZ2amFQTW1CTUVSaGtZMlBxWHJ1TlRvSG1qaFFqd21NMEVja3FuRk83SlJPaG5ZcWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ3NDg2CWZpbGU6VmVsdG9uIExpdmVfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCkk3Y2ZpQnNYMysvK0VzOFNkcFNwLytIQjM4R2hSSVp3V2dtbDhUaGFMUXIxMjRGWEVBeDluaU9HbXZQc3NpRlY3bVBEemJaa0JTblA0MFVQTGxXYkFnPT0K",
+      "url": "https://github.com/nakel-ola/oxtave-releases/releases/download/live-v0.1.1/Velton.Live_0.1.1_x64-setup.exe"
     }
   }
 }
